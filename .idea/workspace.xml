@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dff4504d-9aa3-46a4-b398-f0847e03b1bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../myproject/src/components/addTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/src/container/Todolist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/src/container/Todolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/src/hoc/hoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aug14/pop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Aug14/pop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Arithmatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Mathtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Mathwhiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Meetcarla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/Spelltest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/arith_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/carla_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/carla_kids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/carla_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/celery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/lemonade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/onions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/owl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/owlr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/read_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/images/write_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final-javaScript-project-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FridayAug17 practice/Websitepractice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FridayAug17 practice/Websitepractice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript-project-master/Mathwhiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript-project-master/Mathwhiz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Arithmatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Mathtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Mathwhiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Meetcarla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/Spelltest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/arith_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/carla_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/carla_kids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/carla_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/celery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/lemonade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/onions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/owl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/owlr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/read_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/images/write_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final javaScript project/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2141184763">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="165" />
+          <entry key="json" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="165" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Containers/portfolio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/AboutMe/Navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/AboutMe/Navigation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Containers/Navigation.js" />
+        <option value="$PROJECT_DIR$/src/Components/AboutMe/Navigation.css" />
+        <option value="$PROJECT_DIR$/src/Containers/portfolio.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Components/AboutMe/Navigation.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="AboutMe" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Navdeep.Boparai\Desktop\portfolio\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Navdeep.Boparai\Desktop\portfolio\node_modules\prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff4504d-9aa3-46a4-b398-f0847e03b1bc" name="Default Changelist" comment="" />
+      <created>1544492904988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544492904988</updated>
+      <workItem from="1544492906379" duration="1724000" />
+      <workItem from="1544572114072" duration="3140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Containers/Navigation.js" />
+    <entry file="file://$PROJECT_DIR$/src/Components/AboutMe/Navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Containers/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/AboutMe/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
