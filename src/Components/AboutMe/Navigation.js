@@ -13,17 +13,14 @@ const Navigation=()=>{
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <a className="navbar-brand" href="#myPage">Logo</a>
+
                 </div>
-                <div className="alert alert-success">
-                    <strong>Success!</strong> Indicates a successful or positive action.
-                </div>
+
                 <div className="collapse navbar-collapse" id="myNavbar">
                     <ul className="nav navbar-nav navbar-right">
                         <li><a href="#about">ABOUT</a></li>
-                        <li><a href="#services">SERVICES</a></li>
-                        <li><a href="#portfolio">PORTFOLIO</a></li>
-                        <li><a href="#pricing">PRICING</a></li>
+                        <li><a href="#services">EDUCATION</a></li>
+                        <li><a href="#portfolio">WORK </a></li>
                         <li><a href="#contact">CONTACT</a></li>
                     </ul>
                 </div>

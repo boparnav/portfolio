@@ -1,22 +1,26 @@
 .navbar {
     margin-bottom: 0;
-    background-color: #f4511e;
+    background-color:#0066ff;
     z-index: 9999;
     border: 0;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
+    font-size: 12px ;
+    line-height: 1.42857143 ;
     letter-spacing: 4px;
     border-radius: 0;
     font-family: Montserrat, sans-serif;
 }
+.container{
+    border-color:#6699ff;
+}
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #fff  ;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #f4511e !important;
-    background-color: #fff !important;
+    color: #f4511e ;
+    background-color:#E16222;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: #fff !important;
+    color:#fff ;
+    background-color:#6699ff;
 }
