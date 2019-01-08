@@ -31,27 +31,24 @@ const Navigation=()=>{
                         </div>
                         </div>
                     </nav>
-                      <div className="row">
-                            <div className="col-sm-4">
-                                 <span className="glyphicon glyphicon-signal logo"></span>
-                            </div>
-                    </div>
+<div className="row">
+
+
 
 
 <div className="container-fluid bg-grey">
         <div className="row">
                     <div className="col-sm-4">
-                        <span classNmae="glyphicon glyphicon-globe logo slideanim"></span>
+                        <span className="glyphicon glyphicon-globe logo slideanim"></span>
                      </div>
 <div className="col-sm-8">
-        <h2>Our Values</h2>
-    <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
-    <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <img src="https://www.google.com/search?rlz=1C1YQLS_enCA805CA805&biw=1600&bih=789&tbm=isch&sa=1&ei=QuYzXKbfHeaf_Qaes6jAAQ&q=images+for+it+&oq=images+for+it+&gs_l=
+        img.3.5.0i67j0l7j0i30j0i24.27828.27828..32324...0.0..0.1978.1978.8-1......0....1..gws-wiz-
+        img.v9tmd9k31b8#imgrc=F7wQpbj8bDnS3M:"/>
 </div>
 </div>
 </div>
-
+                      </div>
 </div>
 
 
